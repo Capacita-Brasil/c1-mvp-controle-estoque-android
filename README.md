@@ -1,0 +1,83 @@
+# MVP Controle de Estoque — Trilha Android
+
+> Projeto desenvolvido no âmbito do **Programa Residência em TIC**, iniciativa do **Capacita Brasil / iRede**, em parceria com o **MCTI** e a **Softex**.
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Ciclo](https://img.shields.io/badge/ciclo-c1-blue)
+![Trilha](https://img.shields.io/badge/trilha-android-informational)
+
+## 📋 Sobre o projeto
+
+O app irá providenciar ferramentas para controle de estoque, permitindo cadastrar produtos, visualizar suas quantidades e atualizar movimentações no inventário da empresa. Ele resolve a necessidade básica de saber o que há disponível em estoque, mantendo tudo organizado e acessível sem depender de controles manuais ou planilhas.
+
+Este repositório contém o desenvolvimento do **MVP base de Controle de Estoque**, na trilha de **Android**. A solução construída aqui é genérica e servirá de ponto de partida para as entregas individuais de cada empresa parceira, que posteriormente incrementam funcionalidades específicas em seus próprios repositórios.
+
+## ✨ Benefícios
+
+`Organização` `Visibilidade` `Controle`
+
+## 🧩 Funcionalidades do MVP base
+
+- [ ] Cadastro de produtos
+- [ ] Visualização de quantidades em estoque
+- [ ] Atualização de movimentações no inventário
+
+## 🎨 Design
+
+- **Protótipo Figma:** https://www.figma.com/design/M5zF951kbHBjSjcmK8OmpX/App-Controle-de-estoque?node-id=0-1&t=XMKrIOSh8CEjQGv0-1
+
+## 🎥 Demonstração em vídeo
+
+{{LINK_VIDEO_DEMONSTRACAO}}
+
+## 👥 Squad responsável
+
+| Nome | Função |
+|---|---|
+| {{NOME_ALUNO_1}} | Desenvolvedor(a) |
+| {{NOME_ALUNO_2}} | Desenvolvedor(a) |
+| {{NOME_ALUNO_3}} | Desenvolvedor(a) |
+| {{NOME_INSTRUTOR}} | Instrutor(a) |
+
+## 📌 Gestão do projeto
+
+O acompanhamento das tarefas deste projeto é feito pelo quadro Kanban na aba **Projects** deste repositório.
+
+## 🛠️ Stack utilizada
+
+- **Linguagem:** {{LINGUAGEM}} (ex: Kotlin, Java)
+- **Framework/SDK:** {{FRAMEWORK}}
+- **Banco de dados local:** {{BANCO_DE_DADOS}}
+- **Outras tecnologias:** {{OUTRAS_TECH}}
+
+## 🚀 Como rodar o projeto
+
+```bash
+# Clone o repositório
+git clone <url-do-repositorio>
+
+# Instale as dependências
+{{COMANDO_INSTALACAO}}
+
+# Configure as variáveis de ambiente
+{{INSTRUCOES_ENV}}
+
+# Execute o projeto
+{{COMANDO_EXECUCAO}}
+```
+
+## 📅 Cronograma
+
+| Etapa | Período |
+|---|---|
+| Levantamento de escopo | {{DATA_INICIO}} |
+| Desenvolvimento | {{DATA_DESENVOLVIMENTO}} |
+| Validações internas | {{DATAS_VALIDACAO}} |
+| Entrega do MVP base | {{DATA_ENTREGA}} |
+
+## 🏢 Empresas atendidas por este MVP
+
+| Empresa | Repositório de entrega |
+|---|---|
+| {{NOME_EMPRESA_1}} | [{{REPO_EMPRESA_1}}]({{LINK_REPO_EMPRESA_1}}) |
+| {{NOME_EMPRESA_2}} | [{{REPO_EMPRESA_2}}]({{LINK_REPO_EMPRESA_2}}) |
