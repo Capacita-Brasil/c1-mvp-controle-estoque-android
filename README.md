@@ -28,7 +28,7 @@ Este repositório contém o desenvolvimento do **MVP base de Controle de Estoque
 
 ## 🎥 Demonstração em vídeo
 
-{{LINK_VIDEO_DEMONSTRACAO}}
+https://github.com/user-attachments/assets/bd17b468-f9b1-4bdc-ad5c-0d2162118f94
 
 ## 👥 Squad responsável
 
